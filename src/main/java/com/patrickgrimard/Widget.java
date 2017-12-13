@@ -1,7 +1,7 @@
 package com.patrickgrimard;
 
 /**
- * Created by XTL on 8/14/2014.
+ * Created by XTL bug fix.
  */
 public class Widget {
 
