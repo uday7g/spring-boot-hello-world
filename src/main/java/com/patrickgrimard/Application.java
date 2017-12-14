@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by XTL on testing134545t5 dec 13.
+ * Created by XTL on testing1345dfdfdsfdf45t5 dec 13.
  */
 @Configuration
 @ComponentScan
